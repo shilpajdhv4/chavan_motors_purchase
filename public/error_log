@@ -1,0 +1,2 @@
+[19-Mar-2020 17:49:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home/chava46h/public_html/chavan_motors_purchase/app/Http/Controllers/Auth/PurchaseLoginController.php on line 55
+[28-Mar-2020 11:27:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home/chava46h/public_html/chavan_motors_purchase/app/Http/Controllers/UserController.php on line 106
